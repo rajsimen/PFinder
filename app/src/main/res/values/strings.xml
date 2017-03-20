@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PartnerSearch</string>
+    <string name="map_api_key">AIzaSyBvlMXC2j23-Pfjc30aB_O71xIaFPDKvmE</string>
+
+    <!--Strings for location tracking-->
+    <string name="service_not_available">Service Not Available</string>
+    <string name="invalid_lat_long_used">Invalid Positions</string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="address_found">Address Found</string>
+    <string name="no_geocoder_available">Geocoder is Not Available</string>
+
+    <!--Login_Screen-->
+    <string name="create_account">+ Create New Account</string>
+    <string name="app_log">app logo</string>
+    <string name="email"> Email Id</string>
+    <string name="pwd"> Password</string>
+    <string name="login">Login</string>
+    <string name="fbLogin">Login with</string>
+    <string name="forgetPwd">Forget Password ?</string>
+
+    <!--Registration_Screen-->
+    <string name="aboutYou">About Yourself</string>
+    <string name="photo">upload Profile Picture</string>
+    <string name="uname">User Name</string>
+    <string name="dob">Date Of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="interetedIn">Interested In</string>
+    <string name="lookingFor">Looking For</string>
+    <string name="contact_No">Contact No(O)</string>
+    <string name="location">Location</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="editInfo">Edit Info</string>
+</resources>
